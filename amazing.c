@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	pirntf("Hi,github!\n");
+	printf("amazing!!\n");
 	return 0;
 }
 
